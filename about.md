@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I studied a 4 year Bachelor's Degree in Computer Engineering at the University of Zaragoza (Spain). Here was when my passion for Machine Learning and Data Science started.
 
-### More Information
+Now, I am studying a Master in Engineering Decision Making at the Rey Juan Carlos University (Madrid, Spain). 
 
-A place to include any other types of information that you'd like to include about yourself.
+At the same time, I am working in the Data Science Area of Semmantica, a Startup focused on Marketing and Sem. 
 
-### Contact me
+In my free time I keep studying and developing my own little projects which you can se here.
 
-[email@domain.com](mailto:email@domain.com)
+For further information about me see my [Linkedin profile](https://www.linkedin.com/in/asabater94/).
+
+If you have any question, don't hesitate to contact me.
+
+[asabater94@gmail.com](mailto:asabater94@gmail.com)
