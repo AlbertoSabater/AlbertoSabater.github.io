@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Resources
 permalink: /resources/
+comments: true
 ---
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
@@ -90,4 +91,5 @@ Deep Learning Concepts: https://medium.com/towards-data-science/deep-learning-co
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 
 
-If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Contact me vía mail: [asabater94@gmail.com](mailto:asabater94@gmail.com)
+If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Post a comment here ![finger_down](./images/icons/finger_down.png).  
+<img src="./images/icons/finger_down.png" width="250">
