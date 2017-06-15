@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resources
 permalink: /resources/
 comments: true
@@ -34,6 +34,7 @@ Deep Learning Blog Course: https://medium.com/@PyGurl
 Learning AI if you Suck at Maths: https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
 100 Days of Algorithms: https://medium.com/100-days-of-algorithms
 Deep Learning Concepts: https://medium.com/towards-data-science/deep-learning-concepts-part-1-ea0b14b234c8
+http://mccormickml.com/tutorials/
 -->
 
 
