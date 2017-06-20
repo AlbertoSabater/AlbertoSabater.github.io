@@ -56,6 +56,7 @@ http://mccormickml.com/tutorials/
 ## Tutorials
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): a great introduction to LSTM Networks. To see some funny applications of Recurrent Neural Networks, check this [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+* [ResNets, HighwayNets and DenseNets](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32): special convolutional layers to train Deep Networks.
 * [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
 * [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
 * Model Stacking: combine several trained models to build a better stacked model. [1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/), [2](https://mlwave.com/kaggle-ensembling-guide/), [3](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/).
