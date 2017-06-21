@@ -88,6 +88,7 @@ http://mccormickml.com/tutorials/
 
 ## Other resources:
 
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): a curated list of the most cited deep learning papers (since 2012).
 * [Kaggle](https://www.kaggle.com/): a highly recommended platform with data science competitions, datasets and forums.
 * [OpenAI](https://universe.openai.com/): great environments and resources to use Reinforcement Learning algorithms.
