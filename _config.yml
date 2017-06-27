@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: AlbertoSabater
   instagram:
-  linkedin: asabater94
+  linkedin: asabater_
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: AlbertMostro
@@ -37,8 +37,8 @@ footer-links:
 disqus: asabater-blog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: UA-101049574-1
-google_analytics: 
+google_analytics: UA-101049574-1
+#google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
