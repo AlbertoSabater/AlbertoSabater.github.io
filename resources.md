@@ -5,6 +5,8 @@ permalink: /resources/
 comments: true
 ---
 
+**Last update: 27-06-2017**
+
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
 <!-- Explicar que tienen que apuntarse a cursos básicos y apuntarse a mailing list para estar al día de las útlimas tendencias, noticias y proyectos. Hablar de Kaggle
@@ -12,7 +14,7 @@ Here you will find lots of courses, blogs, tutorials, projects and other interes
 Introducir cada apartado -->
 
 
-**Disclaimer:** I haven't done all of this courses (and not all of the courses I have done are here), so I can't guarantee its quality. But based on the research and readings I have done, I can recommend you to take a look if you are interested in.
+**Disclaimer:** I haven't done all of these courses (and not all of the courses I have done are here), so I can't guarantee its quality. But based on the research and readings I have done, I can recommend you to take a look if you are interested in.
 
 ## Courses and MOOCs
 
@@ -50,12 +52,13 @@ http://mccormickml.com/tutorials/
 ## Mailing lists
 
 * [Python Weekly](http://www.pythonweekly.com/), [DataScience Weekly](https://www.datascienceweekly.org/), [AIWeekly](http://aiweekly.co/), [Kaggle Blog](http://blog.kaggle.com/): subscribe here to read news, tutorials and projects related with Data Science.
-* [Bonilista](http://bonillaware.us2.list-manage.com/subscribe?u=374c664073e1a1fa3deca53b4&id=e67967d43f) (spanish): opinion articles related with the technology and Startup world.
+* [Bonilista](http://bonillaware.us2.list-manage.com/subscribe?u=374c664073e1a1fa3deca53b4&id=e67967d43f) (Spanish): opinion articles related with the technology and Startup world.
 
 
 ## Tutorials
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): a great introduction to LSTM Networks. To see some funny applications of Recurrent Neural Networks, check this [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/): some improvements on RNNs by letting the network sequentially focus on a subset of the input.
 * [ResNets, HighwayNets and DenseNets](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32): special convolutional layers to train Deep Networks.
 * [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
 * [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
@@ -73,7 +76,7 @@ http://mccormickml.com/tutorials/
 
 * [Keras](https://keras.io/): a high-level neural networks API for Python with TensorFlow or Theano backend. This [repo](https://github.com/fchollet/keras-resources) contains lots of resources, tutorials and examples. 
 * [Python Plays GTA V](https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/): apply Computer Vision and Machine Learning step by step in a complex environment. 
-* [Face Recognition](https://github.com/ageitgey/face_recognition): find, indentify and manipulate faces with this simple library. [This](https://github.com/cmusatyalab/openface) is another great repo with interesting face recognition tools.
+* [Face Recognition](https://github.com/ageitgey/face_recognition): find, identify and manipulate faces with this simple library. [This](https://github.com/cmusatyalab/openface) is another great repo with interesting face recognition tools.
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
 
@@ -83,7 +86,7 @@ http://mccormickml.com/tutorials/
 * [Custom Data Science Master](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
-* [All AI resources ar one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
+* [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 
 
 ## Other resources:
