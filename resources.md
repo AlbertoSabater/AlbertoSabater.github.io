@@ -26,10 +26,12 @@ Introducir cada apartado -->
 * Practical Deep Learning for Coders, [Fast.ai](http://course.fast.ai/)
 * Tensorflow for Deep Learning Research, [Stanford](http://web.stanford.edu/class/cs20si/syllabus.html)
 
-
 #### Natural Language Processing
 * Deep Natural Language Processing 2017, [Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * Deep Natural Language Processing 2017, [Stanford](http://cs224d.stanford.edu/syllabus.html)
+
+#### Reinforcement Learning
+* Deep Reinforcement Learning 2017, [Berkeley](http://rll.berkeley.edu/deeprlcourse/)
 
 <!---
 Deep Learning Blog Course: https://medium.com/@PyGurl
