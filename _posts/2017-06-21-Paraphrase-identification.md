@@ -8,14 +8,16 @@ Finding repeated questions in discussion forums is fairly common and that can be
 
 Paraphrase identification is a hard problem which involves Natural Language Processing (NLP) and Machine Learning. For this reason, Quora launched the [Quora Question Pairs Competition](https://www.kaggle.com/c/quora-question-pairs) in [Kaggle](https://www.kaggle.com/).
 
-In this competition, Quora provides a training dataset with pairs of questions (400K) labeled to 1 if the two questions have the same meaning or 0 if not, and a test dataset with pairs of questions (2.3M) unlabeled. Since these questions have been tagged by humans, their labels are inherently subjective, so they are not 100% accurate. **The objective is to predict this duplicacy by minimizing its log logss.**
+In this competition, Quora provides a training dataset with pairs of questions (400K) labeled to 1 if the two questions have the same meaning or 0 if not, and a test dataset with pairs of questions (2.3M) unlabeled. Since these questions have been tagged by humans, their labels are inherently subjective, so they are not 100% accurate. The objective is to predict if both questions for each sample share the same meaning.
 
-**MOSTRAR EJEMPLO DE QUESTIONS DEL DATASET**
+<p align="center"> 
+<img src="../../images/Post_1_Kaggle_Quora/data_ex.png" width="700">
+</p>
 
 
 ## Architecture
 
-To solve this problem I propose an architecture based on Recurrent Neural Networks. This kind of networks has proven its performance in different NLP tasks like sentiment analysis or text translation.
+To solve this problem I propose an architecture based on Recurrent Neural Networks. This kind of networks has proven its performance on different NLP tasks like sentiment analysis or text translation.
 
 Since the input of the network must be numeric, questions must be transformed to arrays of [Word Embeddings](https://www.tensorflow.org/tutorials/word2vec). A Word Embedding is a vector which represents a word in a multidimensional space. Once the embeddings are trained, the resulting word vectors have quite interesting spatial characteristics.
 
@@ -47,9 +49,9 @@ Besides Word Embeddings, some features related to the question similarities has 
 
 ## Model Stacking
 
-This Neural Network has been trained several times with different modifications in its architecture and inputs. For this set of trainings, questions has been taken has inputs after removing (or not) stopwords, the architecture has been modified adding more layers or increasing their size, and distance features are taken as an input to concatenate before (or not) been processed by another MLP layer.
+This Neural Network has been trained several times with different modifications in its architecture and inputs. For this set of trainings, questions has been taken has inputs after removing (or not) stopwords, the architecture has been modified adding more layers or increasing their size, and distance features are taken as an input to concatenate before (or not) been processed by another MLP layer. All of these models have achieved an **accuracy** between 88% and **91%** with the labeled data.
 
-All of these tests have been combined to make a Stacked Model. This means that one model has been trained only with the predictions of the previous models in order to increase the global accuracy. To do this, it isn't necessary to train a complex model, a Logistic Regression is enough.
+To improve this metric, all of these models have been combined to make a [Stacked Model](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/). This means that one model has been trained only with the predictions of the previous models in order to increase the global accuracy. To do this, it isn't necessary to train a complex model, a Logistic Regression is enough.
 
 <p align="center"> 
 <img src="../../images/Post_1_Kaggle_Quora/StackedModel.png" width="500">
@@ -61,8 +63,7 @@ An additional stacked model has been trained with the main Neural Network archit
 <img src="../../images/Post_1_Kaggle_Quora/StackedNN.png" width="700">
 </p>
 
-Both stacked models have increased the final accuracy of the predictions (~94% accuracy).
-**PRECISIÓN FINAL CONSEGUIDA**
+Both stacked models have increased the final **accuracy** to **~94%**.
 
 
 ## What didn't work
