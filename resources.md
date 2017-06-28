@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 27-06-2017**
+**Last update: 28-06-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -41,6 +41,18 @@ Deep Learning Concepts: https://medium.com/towards-data-science/deep-learning-co
 http://mccormickml.com/tutorials/
 -->
 
+## Tutorials
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): a great introduction to LSTM Networks. To see some funny applications of Recurrent Neural Networks, check this [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/): some improvements on RNNs by letting the network sequentially focus on a subset of the input.
+* [ResNets, HighwayNets and DenseNets](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32): special convolutional layers to train Deep Networks.
+* [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
+* [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
+* Model Stacking: combine several trained models to build a better stacked model. [1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/), [2](https://mlwave.com/kaggle-ensembling-guide/), [3](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/).
+* [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
+* [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+
+
 
 ## Blogs
 
@@ -55,17 +67,6 @@ http://mccormickml.com/tutorials/
 
 * [Python Weekly](http://www.pythonweekly.com/), [DataScience Weekly](https://www.datascienceweekly.org/), [AIWeekly](http://aiweekly.co/), [Kaggle Blog](http://blog.kaggle.com/): subscribe here to read news, tutorials and projects related with Data Science.
 * [Bonilista](http://bonillaware.us2.list-manage.com/subscribe?u=374c664073e1a1fa3deca53b4&id=e67967d43f) (Spanish): opinion articles related with the technology and Startup world.
-
-
-## Tutorials
-
-* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): a great introduction to LSTM Networks. To see some funny applications of Recurrent Neural Networks, check this [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
-* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/): some improvements on RNNs by letting the network sequentially focus on a subset of the input.
-* [ResNets, HighwayNets and DenseNets](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32): special convolutional layers to train Deep Networks.
-* [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
-* [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
-* Model Stacking: combine several trained models to build a better stacked model. [1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/), [2](https://mlwave.com/kaggle-ensembling-guide/), [3](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/).
-* [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
 
 ## Youtube Channels
@@ -100,4 +101,4 @@ http://mccormickml.com/tutorials/
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 
 
-If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Post a comment here <img src="{{ site.baseurl }}/images/icons/finger_down.png" width="25">.
+If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Leave a comment here <img src="{{ site.baseurl }}/images/icons/finger_down.png" width="25">.

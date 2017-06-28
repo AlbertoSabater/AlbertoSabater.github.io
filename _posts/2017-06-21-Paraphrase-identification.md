@@ -84,6 +84,8 @@ Another architecture I tried to use was a Neural Network with LSTM layers like t
 <img src="../../images/Post_1_Kaggle_Quora/DoubleNN.png" width="700">
 </p>
 
+Another important thing I would have changed is to work with all data from the beginning. The train dataset is quite huge, and as I work with a laptop, perform a complete training to tune hyperparameters or do feature engineering takes too much time. So, a better solution would have been to work with a subset of the dataset and use the full data to train the final models.
+
 
 ## Work to do
 

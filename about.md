@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I am a Computer Engineer who is currently starting in the world of Data Science and Machine Learning.
 
-I studied a 4 year Bachelor's Degree in Computer Engineering at the University of Zaragoza (Spain). Here was where my passion for Machine Learning and Data Science started.
+I studied a 4-year Bachelor's Degree in Computer Engineering at the University of Zaragoza (Spain). Here was where my passion for Machine Learning and Data Science started.
 
 Now, I am studying a Master in Engineering Decision Making at the Rey Juan Carlos University (Madrid, Spain). 
 
