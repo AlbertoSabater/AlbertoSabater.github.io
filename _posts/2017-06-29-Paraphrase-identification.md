@@ -28,9 +28,9 @@ Since the input of the network must be numeric, questions must be transformed to
 </p>
 
 
-Following this approach, the network's input is a pair of word embeddings arrays. Each of these arrays is processed by a [LSTM layer](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) whose function is to learn its temporal patterns. In order to reduce the training time and the number of parameters, and since both input questions share the same format, the weights which process the questions are the same. The output of this pair of LSTMs is concatenated and taken as the input of the next Multilayer Perceptron (MLP), and finally, the last layer is a single neuron with the sigmoid activation function which returns the probability that both questions share the same meaning.
+Following this approach, the network's input is a pair of word embeddings arrays. Each of these arrays is processed by a [LSTM layer](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) whose function is to learn its temporal patterns. In order to reduce the training time and the number of parameters, and since both input questions share the same format, the weights which process both questions are the same. The output of this pair of LSTMs is concatenated and taken as the input of the next Multilayer Perceptron (MLP), and finally, the last layer is a single neuron with the sigmoid activation function which returns the probability that both questions share the same meaning.
 
-Additionally, a set of features have been calculated and taken as the third input of the Neural Network. This new input is concatenated to one of the MLP layer. The final architecture is this:
+Additionally, a set of features have been calculated and taken as the third input of the Neural Network. This new input is concatenated to one of the MLP layer. This is the final architecture:
 
 <p align="center"> 
 <img src="../../images/Post_1_Kaggle_Quora/SimpleNN.png" width="450">
@@ -43,7 +43,7 @@ Additionally, a set of features have been calculated and taken as the third inpu
 
 Feature Engineering is one of the most important part in a Data Science project. For this project there are two kinds of features, those related with question representations and those related with similarities.
 
-As I mentioned above, each word is represented as a vector and each question as a sequence of vectors. However, learning this Word Embeddings requires a big amount of data to get consistent results. To avoid this step I have used pretrained Word Embeddings from [GloVe](https://nlp.stanford.edu/projects/glove/). Specifically I have used those trained with data from a Common Crawl with 840B tokens and 2.2M words represented as a 300-dimensional vector.
+As I mentioned above, each word is represented as a vector and each question as a sequence of vectors. However, learning these Word Embeddings requires a big amount of data to get consistent results. To avoid this step I have used pretrained Word Embeddings from [GloVe](https://nlp.stanford.edu/projects/glove/). Specifically I have used those trained with data from a Common Crawl with 840B tokens and 2.2M words represented as a 300-dimensional vector.
 
 Before using these embeddings, each question has to be preprocessed. NLP cleaning includes steps like setting all characters to lower case, removing odd characters, removing stop words, stemming (not in this project), and convert each sentence to an array of indexes, where each index points to a word representation in an Embedding Layer and each row of its weights represents a word vector.
 
@@ -73,7 +73,7 @@ Both stacked models have increased the final **accuracy** to **~94%**.
 
 ## What didn't work
 
-At the beginning of the competition, I tried to do feature engineering with a [Correspondence Analysis](http://www.mathematica-journal.com/2010/09/an-introduction-to-correspondence-analysis/). Using this unsupervised learning technique, from a contingency matrix with the count of each possible word for each question, I would be able to represent each word or question in a multidimensional space where similar words or questions are close to each other. In this way, these vectors allow similarity and distance calculation. This method would also allow clustering or calculating word or question embeddings, to feed an upper model.
+At the beginning of the competition, I tried to do feature engineering with a [Correspondence Analysis](http://www.mathematica-journal.com/2010/09/an-introduction-to-correspondence-analysis/). Using this unsupervised learning technique, from a contingency matrix with the count of each possible word for each question, I would be able to represent each word or question in a multidimensional space where similar words or questions are close to each other. In this way, these vectors allow similarity and distance calculation. This method would also allow clustering or calculating word or question representations, to feed an upper model.
 
 However, I realized (too late) that this technique wasn't scalable at all. The contingency matrix was so big that it didn't fit in memory. So, I had to discard this method.
 
@@ -81,7 +81,7 @@ A similar approach I tried was to use PCA instead of CA over the contingency mat
 
 As the dataset was so big, I also tried to learn the word embeddings at the same time the Neural Network was trained. Didn't work. Word Embeddings are usually trained using [word2vec](https://www.tensorflow.org/tutorials/word2vec). I didn't try it because there are lot of embeddings trained with this technique available like [GloVe](https://nlp.stanford.edu/projects/glove/).
 
-Another architecture I tried to use was a Neural Network with LSTM layers like the described before, but with 4 questions as inputs instead of two. Two questions with stop words and two more without stop words. I tried, but my GPU memory isn't big enough to fit that model.
+Another architecture I tried to use was a Neural Network with LSTM layers like the described before, but with 4 questions as inputs instead of two. Two questions with stopwords and two more without stop words. I tried, but my GPU memory isn't big enough to fit that model.
 
 <p align="center"> 
 <img src="../../images/Post_1_Kaggle_Quora/DoubleNN.png" width="700">
@@ -97,7 +97,7 @@ In projects like this, the principal resource is time. I would have liked to hav
 
 Besides that, I would also like to have worked more with feature engineering. This is some work that could have been done:
 * [Tf-idf](http://www.tfidf.com/): this technique provides knowledge about how important is a word according to the number of times it appears in a question and in all dataset.
-* [Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html): an autoencoder is a Neural Network whose function is, through unsupervised learning, learn a new representation (code) for its inputs. Its architecture is made of an encoder, which creates the *code* from its input, and a decoder, which reconstruct the input from the *code*. So, this code can be a new representation for our questions that feed the models. To do that, the autoencoder must be made of Convolutional or LSTM layers.
+* [Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html): an autoencoder is a Neural Network whose function is, through unsupervised learning, learn a new representation (code) for its inputs. Its architecture is made of an encoder, which creates the *code* from its input, and a decoder, which reconstruct the input from the *code*. So, this *code* can be a new representation for our questions that feed the models. To do that, the autoencoder must be made of Convolutional or LSTM layers.
 * Get features from words which are out of the embeddings dataset. Ex. see if excluded words are in both questions, calculate feature similarities from the excluded words, etc.
 * Get features from n-grams instead of words. That can help with misspelled words.
 
