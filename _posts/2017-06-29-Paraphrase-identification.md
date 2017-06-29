@@ -45,7 +45,7 @@ Feature Engineering is one of the most important part in a Data Science project.
 
 As I mentioned above, each word is represented as a vector and each question as a sequence of vectors. However, learning these Word Embeddings requires a big amount of data to get consistent results. To avoid this step I have used pretrained Word Embeddings from [GloVe](https://nlp.stanford.edu/projects/glove/). Specifically I have used those trained with data from a Common Crawl with 840B tokens and 2.2M words represented as a 300-dimensional vector.
 
-Before using these embeddings, each question has to be preprocessed. NLP cleaning includes steps like setting all characters to lower case, removing odd characters, removing stop words, stemming (not in this project), and convert each sentence to an array of indexes, where each index points to a word representation in an Embedding Layer and each row of its weights represents a word vector.
+Before using these embeddings, each question has to be preprocessed. NLP cleaning includes steps like setting all characters to lower case, removing odd characters, removing stopwords, stemming (not in this project), and convert each sentence to an array of indexes, where each index points to a word representation in an Embedding Layer and each row of its weights represents a word vector.
 
 Besides Word Embeddings, some features related to the question similarities has been calculated for each pair of questions. Some of these features are cosine similarities, Levenshtein distance, Jaro distance and ratio (more info [here](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)). These features have been calculated with and without stopwords in the questions.
 
@@ -81,7 +81,7 @@ A similar approach I tried was to use PCA instead of CA over the contingency mat
 
 As the dataset was so big, I also tried to learn the word embeddings at the same time the Neural Network was trained. Didn't work. Word Embeddings are usually trained using [word2vec](https://www.tensorflow.org/tutorials/word2vec). I didn't try it because there are lot of embeddings trained with this technique available like [GloVe](https://nlp.stanford.edu/projects/glove/).
 
-Another architecture I tried to use was a Neural Network with LSTM layers like the described before, but with 4 questions as inputs instead of two. Two questions with stopwords and two more without stop words. I tried, but my GPU memory isn't big enough to fit that model.
+Another architecture I tried to use was a Neural Network with LSTM layers like the described before, but with 4 questions as inputs instead of two. Two questions with stopwords and two more without stopwords. I tried, but my GPU memory isn't big enough to fit that model.
 
 <p align="center"> 
 <img src="../../images/Post_1_Kaggle_Quora/DoubleNN.png" width="700">
