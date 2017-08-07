@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 02-08-2017**
+**Last update: 07-08-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -99,6 +99,7 @@ http://mccormickml.com/tutorials/
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): a curated list of the most cited deep learning papers (since 2012).
 * [Kaggle](https://www.kaggle.com/): a highly recommended platform with data science competitions, datasets and forums.
 * [OpenAI](https://universe.openai.com/): great environments and resources to use Reinforcement Learning algorithms.
+* [Neural Network architectures Cheat Sheet](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464): all kinds of Neural Network architectures briefly explained.
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 
 
