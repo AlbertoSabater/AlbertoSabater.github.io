@@ -83,6 +83,8 @@ http://mccormickml.com/tutorials/
 * [Face Recognition](https://github.com/ageitgey/face_recognition): find, identify and manipulate faces with this simple library. [This](https://github.com/cmusatyalab/openface) is another great repo with interesting face recognition tools.
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
+<!-- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
+-->
 
 
 ## Online courses compilations
