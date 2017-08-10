@@ -105,6 +105,7 @@ http://mccormickml.com/tutorials/
 * [OpenAI](https://universe.openai.com/): great environments and resources to use Reinforcement Learning algorithms.
 * [Neural Network architectures Cheat Sheet](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464): all kinds of Neural Network architectures briefly explained.
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
+* [More Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 
 If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Leave a comment here <img src="{{ site.baseurl }}/images/icons/finger_down.png" width="25">.
