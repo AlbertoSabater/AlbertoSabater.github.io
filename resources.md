@@ -9,10 +9,6 @@ comments: true
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
-<!-- Explicar que tienen que apuntarse a cursos básicos y apuntarse a mailing list para estar al día de las útlimas tendencias, noticias y proyectos. Hablar de Kaggle
-
-Introducir cada apartado -->
-
 
 **Disclaimer:** I haven't done all of these courses (and not all of the courses I have done are here), so I can't guarantee its quality. But based on the research and readings I have done, I can recommend you to take a look if you are interested in.
 
@@ -54,6 +50,7 @@ http://mccormickml.com/tutorials/
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 <!--
 * [Adversarial Autoencoders](https://medium.com/towards-data-science/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
+* [NLP best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#taskspecificbestpractices)
 -->
 
 
