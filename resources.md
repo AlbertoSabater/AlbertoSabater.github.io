@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 07-08-2017**
+**Last update: 22-08-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -82,6 +82,7 @@ http://mccormickml.com/tutorials/
 * [Face Recognition](https://github.com/ageitgey/face_recognition): find, identify and manipulate faces with this simple library. [This](https://github.com/cmusatyalab/openface) is another great repo with interesting face recognition tools.
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
+* [Neural Style Transfer](https://medium.com/towards-data-science/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1): resources to understand and implement Neural Style Transfer.
 <!-- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 -->
 
