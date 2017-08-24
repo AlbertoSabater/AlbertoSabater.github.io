@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 22-08-2017**
+**Last update: 24-08-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -46,6 +46,7 @@ http://mccormickml.com/tutorials/
 * [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
 * [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
 * Model Stacking: combine several trained models to build a better stacked model. [1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/), [2](https://mlwave.com/kaggle-ensembling-guide/), [3](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/).
+* [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning): repo with the implementation of Reinforcement Learning Algorithms, exercises, solutions and links to their theory.
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 <!--
@@ -84,12 +85,14 @@ http://mccormickml.com/tutorials/
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
 * [Neural Style Transfer](https://medium.com/towards-data-science/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1): resources to understand and implement Neural Style Transfer.
 <!-- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
+* [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 -->
 
 
 ## Online courses compilations
 
 * [Custom Data Science Master](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+* [How To Become A Machine Learning Engineer](https://hackernoon.com/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
