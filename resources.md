@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 24-08-2017**
+**Last update: 29-08-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -17,6 +17,7 @@ Here you will find lots of courses, blogs, tutorials, projects and other interes
 #### Machine Learning and Deep Learning
 
 * Machine Learning by Andrew Ng, [Coursera](https://www.class-central.com/mooc/835/coursera-machine-learning)
+* Deep Learning Specialization by Andrew Ng, [Coursera](https://www.coursera.org/specializations/deep-learning)
 * Deep Learning by Google, [Udacity](https://www.udacity.com/course/deep-learning--ud730)
 * Deep Learning with Tensorflow, [Big Data University](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
 * Practical Deep Learning for Coders, [Fast.ai](http://course.fast.ai/)
