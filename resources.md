@@ -97,6 +97,7 @@ http://mccormickml.com/tutorials/
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
+<!-- * [MOOCs for Mathematics and Statistics](https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/) -->
 
 
 ## Other resources:
