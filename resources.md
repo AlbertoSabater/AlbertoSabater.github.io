@@ -50,7 +50,7 @@ http://mccormickml.com/tutorials/
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning): repo with the implementation of Reinforcement Learning Algorithms, exercises, solutions and links to their theory.
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
-<!--
+<!---
 * [Adversarial Autoencoders](https://medium.com/towards-data-science/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
 * [NLP best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#taskspecificbestpractices)
 -->
