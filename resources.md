@@ -91,6 +91,10 @@ http://mccormickml.com/tutorials/
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 
+<!--- 
+https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78 
+-->
+
 
 ## Other resources:
 
