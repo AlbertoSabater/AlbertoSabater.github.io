@@ -85,7 +85,7 @@ http://mccormickml.com/tutorials/
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
 * [Neural Style Transfer](https://medium.com/towards-data-science/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1): resources to understand and implement Neural Style Transfer.
-<!-- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
+<!--- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 -->
 
@@ -97,7 +97,7 @@ http://mccormickml.com/tutorials/
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
-<!-- * [MOOCs for Mathematics and Statistics](https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/) -->
+<!--- * [MOOCs for Mathematics and Statistics](https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/) -->
 
 <!--- 
 https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78 
