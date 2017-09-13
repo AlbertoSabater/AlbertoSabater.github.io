@@ -50,6 +50,7 @@ http://mccormickml.com/tutorials/
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning): repo with the implementation of Reinforcement Learning Algorithms, exercises, solutions and links to their theory.
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+
 <!---
 * [Adversarial Autoencoders](https://medium.com/towards-data-science/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
 * [NLP best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#taskspecificbestpractices)
@@ -62,6 +63,7 @@ http://mccormickml.com/tutorials/
 * [Machine Learning For Artists](https://ml4a.github.io): examples and projects for Machine Learning applications in art.
 * [Kaggle Blog](http://blog.kaggle.com/): articles about the winner solutions in its competitions and some tutorials.
 * [PyImageSearch](https://www.pyimagesearch.com): Computer Vision articles and tutorials.
+
 <!--- * [blog.otoro.net](http://blog.otoro.net/)-->
 
 
@@ -85,6 +87,7 @@ http://mccormickml.com/tutorials/
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
 * [Neural Style Transfer](https://medium.com/towards-data-science/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1): resources to understand and implement Neural Style Transfer.
+
 <!--- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 -->
@@ -97,6 +100,7 @@ http://mccormickml.com/tutorials/
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [Every single Machine Learning Course on the Internet ranked](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [All AI resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
+
 <!--- * [MOOCs for Mathematics and Statistics](https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/) -->
 
 <!--- 
