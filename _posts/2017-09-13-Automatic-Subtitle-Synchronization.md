@@ -109,7 +109,7 @@ By doing that, the **TV Show** example is synchronized (all process) in **45 sec
 
 ## Conclusions
 
-This project has proven to be a good method for automatic subtitle synchronization and it is also robust to noise like those subtitles which represents text in the video or human voices which are not subtitled (like songs or TV Show openings).
+This project has proven to be a fast and effective method for automatic subtitle synchronization and it is also robust to noise like those subtitles which represents text in the video or human voices which are not subtitled (like songs or TV Show openings).
 
 So, Mr. Netflix, Mr. YouTube, and Mr. VLC if you need help with your subtitle synchronization, do not hesitate to contact me. ;)
 
