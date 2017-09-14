@@ -38,7 +38,7 @@ This method assumes that an audio signal barely changes in short periods of time
 
 ## Dataset construction
 
-Since this is a classification problem, it is necessary to have a label for each input data. The input is made of the MFCC features extracted from the audio of a video. For each video there is a synchronized subtitle, so we can know when people are speaking. With this information, we can tag each sample with 1 if there is a subtitle at that point in time (somebody speaking) or 0 if not.
+Since this is a classification problem, it is necessary to have a label for each input data. The input is made of the MFCC features extracted from the audio of a video. For each video there is a synchronized subtitle, so we can know when people are speaking. With this information, we can tag each sample with 1 if there is a subtitle at that point in time (somebody speaking) or 0 if not. This is the output we want to predict.
 
 
 
