@@ -90,6 +90,7 @@ http://mccormickml.com/tutorials/
 
 <!--- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
+* [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 -->
 
 
