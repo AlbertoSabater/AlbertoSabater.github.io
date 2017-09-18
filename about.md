@@ -10,9 +10,9 @@ I studied a 4-year Bachelor's Degree in Computer Engineering at the University o
 
 Now, I am studying a Master in Engineering Decision Making at the Rey Juan Carlos University (Madrid, Spain). 
 
-At the same time, I am working in the Data Science Area of Semmantica, a Startup focused on Marketing and Sem. 
+At the same time, I am working in the Data Science Area of Semmantica, a Startup focused on Digital Marketing and SEM.
 
-In my leisure time I keep studying and developing my own little projects which you can see here.
+In my leisure time, I keep studying and developing my own little projects which you can see here. I am really interested in applying Machine Learning to real-world problems.
 
 For further information about me see my [Linkedin profile](https://www.linkedin.com/in/asabater94/).
 
