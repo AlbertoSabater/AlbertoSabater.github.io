@@ -4,9 +4,6 @@ title: Image Masking Challenge. A Kaggle Competition
 excerpt_separator: <!--more-->
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 The goal of this Kaggle competition is to remove the background of a set of car pictures with a width variety of year, color and model combinations. That means, creating a mask for each photo that covers the area where the vehicle is. Using Machine Learning in this task would save a lot of time in manual photo editing.
 
