@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 29-08-2017**
+**Last update: 04-10-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -118,6 +118,6 @@ https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-py
 * [Neural Network architectures Cheat Sheet](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464): all kinds of Neural Network architectures briefly explained.
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 * [More Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
-
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google Developers.
 
 If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Leave a comment here <img src="{{ site.baseurl }}/images/icons/finger_down.png" width="25">.
