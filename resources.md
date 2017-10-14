@@ -54,6 +54,7 @@ http://mccormickml.com/tutorials/
 <!---
 * [Adversarial Autoencoders](https://medium.com/towards-data-science/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
 * [NLP best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#taskspecificbestpractices)
+* [How ML algorithms and DataScience techniques work](http://brohrer.github.io/blog.html)
 -->
 
 
