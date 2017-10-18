@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 04-10-2017**
+**Last update: 18-10-2017**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -41,7 +41,7 @@ http://mccormickml.com/tutorials/
 ## Tutorials
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): a great introduction to LSTM Networks. To see some funny applications of Recurrent Neural Networks, check this [link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
-* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/): some improvements on RNNs by letting the network sequentially focus on a subset of the input. [Here](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/) is another good explanation about Attention NN.
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/): some improvements on RNNs by letting the network sequentially focus on a subset of the input. [Here](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/) is another good explanation about Attention NN, and [here](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html) another one.
 * [Neural Machine Translation (seq2seq)](https://github.com/tensorflow/nmt): a tutorial to understand and implement NMT with tensorflow. 
 * [ResNets, HighwayNets and DenseNets](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32): special convolutional layers to train Deep Networks.
 * [Image Segmentation](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4): a brief history of CNNs in Image Segmentation, from R-CNN to Mask R-CNN.
