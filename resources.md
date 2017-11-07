@@ -48,6 +48,7 @@ http://mccormickml.com/tutorials/
 * [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_62): understanding and implementing CycleGAN in TensorFlow.
 * Model Stacking: combine several trained models to build a better stacked model. [1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/), [2](https://mlwave.com/kaggle-ensembling-guide/), [3](http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/).
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning): repo with the implementation of Reinforcement Learning Algorithms, exercises, solutions and links to their theory.
+* [Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/): a visual explanation of some Evolution Strategies.
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
