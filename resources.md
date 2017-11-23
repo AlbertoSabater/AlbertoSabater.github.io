@@ -53,6 +53,7 @@ http://mccormickml.com/tutorials/
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
 <!---
+* [Evolution Strategies Code](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
 * [Adversarial Autoencoders](https://medium.com/towards-data-science/a-wizards-guide-to-adversarial-autoencoders-part-2-exploring-latent-space-with-adversarial-2d53a6f8a4f9)
 * [NLP best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#taskspecificbestpractices)
 * [How ML algorithms and DataScience techniques work](http://brohrer.github.io/blog.html)
