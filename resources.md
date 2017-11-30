@@ -123,4 +123,8 @@ https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-py
 * [More Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/) by Google Developers.
 
+<!---
+* [A year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+-->
+
 If you have any other interesting resource to stay up-to-date with Machine Learning don't hesitate to share it. Leave a comment here <img src="{{ site.baseurl }}/images/icons/finger_down.png" width="25">.
