@@ -31,6 +31,7 @@ Here you will find lots of courses, blogs, tutorials, projects and other interes
 * Deep Reinforcement Learning 2017, [Berkeley](http://rll.berkeley.edu/deeprlcourse/)
 
 <!---
+[Machine Learning 101, slides] (https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/)
 Deep Learning Blog Course: https://medium.com/@PyGurl
 Learning AI if you Suck at Maths: https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
 100 Days of Algorithms: https://medium.com/100-days-of-algorithms
