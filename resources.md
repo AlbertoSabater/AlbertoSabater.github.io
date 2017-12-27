@@ -95,6 +95,7 @@ http://mccormickml.com/tutorials/
 <!--- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
 * [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+* [Turi Create](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 -->
 
 
