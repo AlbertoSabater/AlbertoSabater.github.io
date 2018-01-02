@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 18-10-2017**
+**Last update: 02-01-2018**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -29,6 +29,7 @@ Here you will find lots of courses, blogs, tutorials, projects and other interes
 
 #### Reinforcement Learning
 * Deep Reinforcement Learning 2017, [Berkeley](http://rll.berkeley.edu/deeprlcourse/)
+* [Deep Reinforcement Learning Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 <!---
 [Machine Learning 101, slides] (https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/)
