@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 02-01-2018**
+**Last update: 23-02-2018**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -52,6 +52,7 @@ http://mccormickml.com/tutorials/
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning): repo with the implementation of Reinforcement Learning Algorithms, exercises, solutions and links to their theory.
 * [Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/): a visual explanation of some Evolution Strategies.
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
+* [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html): this paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks. 
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
 <!---
@@ -92,6 +93,7 @@ http://mccormickml.com/tutorials/
 * [Deep Feature Flow for Video Recognition](https://github.com/msracver/Deep-Feature-Flow): a simple, fast, accurate, and end-to-end framework for video recognition.
 * [Open AI RL Algorithms](https://github.com/openai/baselines): a set of high-quality implementations of Reinforcement Learning algorithms.
 * [Neural Style Transfer](https://medium.com/towards-data-science/important-resources-if-you-are-working-with-neural-style-transfer-or-deep-photo-style-transfer-719593b3dbf1): resources to understand and implement Neural Style Transfer.
+* [Prophet](https://github.com/facebook/prophet): tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 
 <!--- * [Text classification algorithms](https://github.com/brightmart/text_classification): all kinds of text classificaiton models and more with deep learning
 * [Fast Style Transfer](https://github.com/lengstrom/fast-style-transfer)
