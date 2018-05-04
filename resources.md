@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 23-02-2018**
+**Last update: 04-05-2018**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -124,6 +124,7 @@ https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-py
 * [Kaggle](https://www.kaggle.com/): a highly recommended platform with data science competitions, datasets and forums.
 * [OpenAI](https://universe.openai.com/): great environments and resources to use Reinforcement Learning algorithms.
 * [Awesome Python](https://awesome-python.com/): a curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome NLP](https://github.com/keon/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP).
 * [Neural Network architectures Cheat Sheet](https://medium.com/towards-data-science/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464): all kinds of Neural Network architectures briefly explained.
 * [Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)  
 * [More Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
