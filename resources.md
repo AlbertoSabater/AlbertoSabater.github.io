@@ -121,6 +121,7 @@ https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-py
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): a curated list of the most cited deep learning papers (since 2012).
+* [Papers with Code](https://paperswithcode.com/): trending ML researchs and the code to implement it.
 * [Kaggle](https://www.kaggle.com/): a highly recommended platform with data science competitions, datasets and forums.
 * [OpenAI](https://universe.openai.com/): great environments and resources to use Reinforcement Learning algorithms.
 * [Awesome Python](https://awesome-python.com/): a curated list of awesome Python frameworks, libraries, software and resources.
