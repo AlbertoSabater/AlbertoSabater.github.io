@@ -5,7 +5,7 @@ permalink: /resources/
 comments: true
 ---
 
-**Last update: 04-05-2018**
+**Last update: 10-07-2018**
 
 Here you will find lots of courses, blogs, tutorials, projects and other interesting resources that will help you if you are starting a Machine Learning career or if you just want to learn some AI in your free time.
 
@@ -54,6 +54,7 @@ http://mccormickml.com/tutorials/
 * [Network Science](http://barabasi.com/networksciencebook/): online textbook for network science. From graph theory to advanced network algorithms.
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html): this paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks. 
 * [Time Series Analysis](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+* [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle): glossary of data science models, techniques and tools shared on kaggle kernels.
 
 <!---
 * [Evolution Strategies Code](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
