@@ -10,7 +10,7 @@ My research is mainly focused on using the data extracted from cameras and weara
 
 In my leisure time, I keep studying and developing my own side little projects which you can see here. I am really interested in applying Machine Learning to real-world problems.
 
-For further information about me visit my [Linkedin profile](https://www.linkedin.com/in/asabater94/).
+For further information about me visit my [Linkedin profile](https://www.linkedin.com/in/alberto-sabater/).
 
 If you have any question, don't hesitate to contact me.
 
